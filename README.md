@@ -17,7 +17,6 @@ Componentes principales del entorno:
 
 La API está diseñada para las operaciones básicas de un CRUD mediante los siguientes métodos HTTP:
 
-* }
 * **`GET`**: Consultar todos o un registro de estudiantes
 * **`POST`**: Agregar un estudiante nuevo
 * **`PUT`**:  Actualizar un registro que ya existe
