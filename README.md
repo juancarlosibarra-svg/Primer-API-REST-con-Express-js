@@ -15,6 +15,10 @@ Componentes principales del entorno:
 
 ## 🚀 Prueba del Endpoint
 
-Para verificar el funcionamiento, se realiza una petición HTTP en entorno local utilizando la extensión de pruebas integrada:
+La API está diseñada para las operaciones básicas de un CRUD mediante los siguientes métodos HTTP:
 
-* **Método:** `GET`
+* }
+* **`GET`**: Consultar todos o un registro de estudiantes
+* **`POST`**: Agregar un estudiante nuevo
+* **`PUT`**:  Actualizar un registro que ya existe
+* **`DELETE`**: Eliminar un estudiante.
